@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description>wait until</description>
+        <display_title>true</display_title>
+        <internal_name>extra_additional_items</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>1</order>
+        <read_roles/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 06:05:04</sys_created_on>
+        <sys_id>f87a1b28db4233003f28874239961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>extra additional items</sys_name>
+        <sys_package display_value="sriinduit" source="x_366639_sriinduit">6f2c7d90db0233003f288742399619fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sriinduit">6f2c7d90db0233003f288742399619fc</sys_scope>
+        <sys_update_name>item_option_new_set_f87a1b28db4233003f28874239961916</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 06:05:04</sys_updated_on>
+        <title>extra additional items</title>
+        <type>one_to_one</type>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

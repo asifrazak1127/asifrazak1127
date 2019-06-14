@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-06-14 04:56:49">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 04:47:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>55729805db4233003f2887423996196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_asif</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sriinduit" source="x_366639_sriinduit">6f2c7d90db0233003f288742399619fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sriinduit">6f2c7d90db0233003f288742399619fc</sys_scope>
+        <sys_update_name>sys_portal_page_55729805db4233003f2887423996196f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 04:47:27</sys_updated_on>
+        <title>catalog_asif</title>
+        <user/>
+        <view>catalog_asif</view>
+    </sys_portal_page>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="asif">5b625805db4233003f288742399619e4</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 04:47:27</sys_created_on>
+        <sys_id>55729805db4233003f28874239961970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>asif.catalog_asif</sys_name>
+        <sys_package display_value="sriinduit" source="x_366639_sriinduit">6f2c7d90db0233003f288742399619fc</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_asif">55729805db4233003f2887423996196f</sys_portal_page>
+        <sys_scope display_value="sriinduit">6f2c7d90db0233003f288742399619fc</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_55729805db4233003f28874239961970</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 04:47:27</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

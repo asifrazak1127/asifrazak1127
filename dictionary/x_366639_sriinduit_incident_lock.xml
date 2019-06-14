@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="incident_lock" max_length="40" name="x_366639_sriinduit_incident_lock" sizeclass="3" type="collection">
+        <element choice="3" label="Contenttype2" max_length="100" name="contenttype2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+                <element inactive_on_update="false" label="email" value="email"/>
+            </choice>
+        </element>
+        <element default="tech" label="service" max_length="100" name="service" type="string"/>
+        <element label="user information" max_length="100" name="user_information" type="string"/>
+    </element>
+</database>
